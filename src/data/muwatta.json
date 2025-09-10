@@ -250,45 +250,340 @@
                     "id": 1,
                     "title_fr": "Les ablutions",
                     "hadiths": [
-                        [
-                            {
-                                "hadith_id": 32,
-                                "book_ref": "Book 2, Hadith 1",
-                                "text_fr": "Amr Ibn Yahia Al-Mazini a rapporté d'après son père qu'il a dit à Abdallah Ibn Zaid Ibn Assem : «Peux-tu me montrer comment l'Envoyé d'Allah faisait ses ablutions»? Abdallah répondit: «Certes, oui». Il fit apporter de l'eau, versa sur ses deux mains, les lava deux fois, se rinça la bouche, fit entrer de l'eau dans son nez en la reniflant trois fois, puis il se lava le visage trois fois, les bras jusqu'aux coudes deux fois, se frotta la tête avec les mains en les faisant passer d'avant en arrière puis d'arrière en avant, et enfin il se lava les pieds.",
-                                "text_ar": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ، عَنْ أَبِيهِ، أَنَّهُ قَالَ لِعَبْدِ اللَّهِ بْنِ زَيْدِ بْنِ عَاصِمٍ ... فَغَسَلَ وَجْهَهُ ثَلاَثًا ثُمَّ غَسَلَ يَدَيْهِ مَرَّتَيْنِ إِلَى الْمِرْفَقَيْنِ ثُمَّ مَسَحَ رَأْسَهُ بِيَدَيْهِ ... ثُمَّ غَسَلَ رِجْلَيْهِ ‏.‏"
-                            },
-                            {
-                                "hadith_id": 33,
-                                "book_ref": "Book 2, Hadith 2",
-                                "text_fr": "Abou Houraira a rapporté que l'Envoyé d'Allah a dit: «quand l'un de vous fait ses ablutions, qu'il fasse pénétrer de l'eau dans son nez, puis qu'il la rejette, et lorsqu'il veut se torcher, qu'il utilise des pierres au nombre impair».",
-                                "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا تَوَضَّأَ أَحَدُكُمْ فَلْيَجْعَلْ فِي أَنْفِهِ مَاءً ثُمَّ لِيَنْثِرْ وَمَنِ اسْتَجْمَرَ فَلْيُوتِرْ ‏\"‏ ‏.‏"
-                            },
-                            {
-                                "hadith_id": 34,
-                                "book_ref": "Book 2, Hadith 3",
-                                "text_fr": "Abou Houraira a rapporté que l'Envoyé d'Allah a dit: «Celui qui fait ses ablutions, qu'il fasse entrer l'eau dans ses narines puis qu'il la rejette, celui qui veut se torcher qu'il utilise un nombre impair de pierres».",
-                                "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ ابْنِ شِهَابٍ، عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ تَوَضَّأَ فَلْيَسْتَنْثِرْ وَمَنِ اسْتَجْمَرَ فَلْيُوتِرْ ‏\"‏ ‏.‏"
-                            },
-                            {
-                                "hadith_id": 35,
-                                "book_ref": "Book 2, Hadith 4",
-                                "text_fr": "Yahia a rapporté qu'il a entendu Malek dire: «il n'y a pas de mal, quand l'homme, faisant ses ablutions, puise de l'eau une seule fois pour se rincer la bouche et la fait pénétrer dans ses narines puis la rejeter».",
-                                "text_ar": ""
-                            },
-                            {
-                                "hadith_id": 36,
-                                "book_ref": "Book 2, Hadith 5",
-                                "text_fr": "Abdel-Rahman Ibn Abou Bakr a rapporté: «le jour où mourut Sa'd Ibn Abi Waqas, il entra chez Aicha et demanda de l'eau pour ses ablutions. Aicha lui dit: «Fais les ablutions intègres, car j'ai entendu l'Envoyé d'Allah dire: «malheur aux talons d'être touchés par le feu».",
-                                "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ أَبِي بَكْرٍ، قَدْ دَخَلَ عَلَى عَائِشَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم يَوْمَ مَاتَ سَعْدُ بْنُ أَبِي وَقَّاصٍ فَدَعَا بِوَضُوءٍ فَقَالَتْ لَهُ عَائْشَةُ يَا عَبْدَ الرَّحْمَنِ أَسْبِغِ الْوُضُوءَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ وَيْلٌ لِلأَعْقَابِ مِنَ النَّارِ ‏\"‏ ‏.‏"
-                            },
-                            {
-                                "hadith_id": 37,
-                                "book_ref": "Book 2, Hadith 6",
-                                "text_fr": "Osman Ibn Abdel-Rahman a rapporté que son père a entendu Omar Ibn Al-Khattab faire ses ablutions en se lavant les pieds jusqu'à son izar (mi-jambes). Yahia a dit que l'on demanda à Malek au sujet d'un homme qui, en faisant ses ablutions, oublie de se rincer la bouche avant le visage ou se lave les bras avant le visage. Il répondit: «Celui qui se lave le visage avant de se rincer la bouche, qu'il se rince la bouche sans refaire le visage; celui qui se lave les bras avant le visage, qu'il lave le visage puis qu'il refasse les bras, tant qu'il continue ses ablutions». Yahia ajouta qu'on demanda à Malek concernant quelqu'un qui a prié mais s'est rappelé qu'il avait oublié de se rincer la bouche ou de renifler l'eau: il répondit: «il n'a pas à refaire sa prière, mais s'il veut prier ensuite, qu'il se rince la bouche et renifle l'eau».",
-                                "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ مُحَمَّدِ بْنِ طَحْلاَءَ، عَنْ عُثْمَانَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَاهُ حَدَّثَهُ أَنَّهُ، سَمِعَ عُمَرَ بْنَ الْخَطَّابِ، يَتَوَضَّأُ بِالْمَاءِ لِمَا تَحْتَ إِزَارِهِ ... لَيْسَ عَلَيْهِ أَنْ يُعِيدَ صَلاَتَهُ وَلْيُمَضْمِضْ وَيَسْتَنْثِرْ مَا يَسْتَقْبِلُ إِنْ كَانَ يُرِيدُ أَنْ يُصَلِّي ‏.‏"
-                            }
-                        ]
+                        {
+                            "hadith_id": 32,
+                            "book_ref": "Book 2, Hadith 1",
+                            "text_fr": "Amr Ibn Yahia Al-Mazini a rapporté d'après son père qu'il a dit à Abdallah Ibn Zaid Ibn Assem : «Peux-tu me montrer comment l'Envoyé d'Allah faisait ses ablutions»? Abdallah répondit: «Certes, oui». Il fit apporter de l'eau, versa sur ses deux mains, les lava deux fois, se rinça la bouche, fit entrer de l'eau dans son nez en la reniflant trois fois, puis il se lava le visage trois fois, les bras jusqu'aux coudes deux fois, se frotta la tête avec les mains en les faisant passer d'avant en arrière puis d'arrière en avant, et enfin il se lava les pieds.",
+                            "text_ar": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ، عَنْ أَبِيهِ، أَنَّهُ قَالَ لِعَبْدِ اللَّهِ بْنِ زَيْدِ بْنِ عَاصِمٍ ... فَغَسَلَ وَجْهَهُ ثَلاَثًا ثُمَّ غَسَلَ يَدَيْهِ مَرَّتَيْنِ إِلَى الْمِرْفَقَيْنِ ثُمَّ مَسَحَ رَأْسَهُ بِيَدَيْهِ ... ثُمَّ غَسَلَ رِجْلَيْهِ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 33,
+                            "book_ref": "Book 2, Hadith 2",
+                            "text_fr": "Abou Houraira a rapporté que l'Envoyé d'Allah a dit: «quand l'un de vous fait ses ablutions, qu'il fasse pénétrer de l'eau dans son nez, puis qu'il la rejette, et lorsqu'il veut se torcher, qu'il utilise des pierres au nombre impair».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا تَوَضَّأَ أَحَدُكُمْ فَلْيَجْعَلْ فِي أَنْفِهِ مَاءً ثُمَّ لِيَنْثِرْ وَمَنِ اسْتَجْمَرَ فَلْيُوتِرْ ‏\"‏ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 34,
+                            "book_ref": "Book 2, Hadith 3",
+                            "text_fr": "Abou Houraira a rapporté que l'Envoyé d'Allah a dit: «Celui qui fait ses ablutions, qu'il fasse entrer l'eau dans ses narines puis qu'il la rejette, celui qui veut se torcher qu'il utilise un nombre impair de pierres».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ ابْنِ شِهَابٍ، عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَنْ تَوَضَّأَ فَلْيَسْتَنْثِرْ وَمَنِ اسْتَجْمَرَ فَلْيُوتِرْ ‏\"‏ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 35,
+                            "book_ref": "Book 2, Hadith 4",
+                            "text_fr": "Yahia a rapporté qu'il a entendu Malek dire: «il n'y a pas de mal, quand l'homme, faisant ses ablutions, puise de l'eau une seule fois pour se rincer la bouche et la fait pénétrer dans ses narines puis la rejeter».",
+                            "text_ar": ""
+                        },
+                        {
+                            "hadith_id": 36,
+                            "book_ref": "Book 2, Hadith 5",
+                            "text_fr": "Abdel-Rahman Ibn Abou Bakr a rapporté: «le jour où mourut Sa'd Ibn Abi Waqas, il entra chez Aicha et demanda de l'eau pour ses ablutions. Aicha lui dit: «Fais les ablutions intègres, car j'ai entendu l'Envoyé d'Allah dire: «malheur aux talons d'être touchés par le feu».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ أَبِي بَكْرٍ، قَدْ دَخَلَ عَلَى عَائِشَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم يَوْمَ مَاتَ سَعْدُ بْنُ أَبِي وَقَّاصٍ فَدَعَا بِوَضُوءٍ فَقَالَتْ لَهُ عَائْشَةُ يَا عَبْدَ الرَّحْمَنِ أَسْبِغِ الْوُضُوءَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ وَيْلٌ لِلأَعْقَابِ مِنَ النَّارِ ‏\"‏ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 37,
+                            "book_ref": "Book 2, Hadith 6",
+                            "text_fr": "Osman Ibn Abdel-Rahman a rapporté que son père a dit qu'il a entendu (ou vu) Omar Ibn Al-Khattab faire ses ablutions (en se lavant les pieds) jusqu'à son izar (c-à-d mi-jambes).",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ مُحَمَّدِ بْنِ طَحْلاَءَ، عَنْ عُثْمَانَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَاهُ، حَدَّثَهُ أَنَّهُ، سَمِعَ عُمَرَ بْنَ الْخَطَّابِ، يَتَوَضَّأُ بِالْمَاءِ لِمَا تَحْتَ إِزَارِهِ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 38,
+                            "book_ref": "Book 2, Hadith 7",
+                            "text_fr": "Yahia a dit : «On demanda à Malek au sujet d'un homme qui, en faisant ses ablutions, oublie de se rincer la bouche avant de se laver le visage ou se lave les bras avant le visage. Il répondit : «Celui qui se lave le visage avant de se rincer la bouche, qu'il se rince la bouche sans qu'il se lave de nouveau le visage ; quant à celui qui se lave les bras avant son visage, qu'il se lave le visage puis qu'il se lave les bras de nouveau tant qu'il continue ses ablutions».",
+                            "text_ar": "قَالَ يَحْيَى سُئِلَ مَالِكٌ عَنْ رَجُلٍ تَوَضَّأَ فَنَسِيَ فَغَسَلَ وَجْهَهُ قَبْلَ أَنْ يَتَمَضْمَضَ أَوْ غَسَلَ ذِرَاعَيْهِ قَبْلَ أَنْ يَغْسِلَ وَجْهَهُ فَقَالَ أَمَّا الَّذِي غَسَلَ وَجْهَهُ قَبْلَ أَنْ يَتَمَضْمَضَ فَلْيُمَضْمِضْ وَلاَ يُعِدْ غَسْلَ وَجْهِهِ وَأَمَّا الَّذِي غَسَلَ ذِرَاعَيْهِ قَبْلَ وَجْهِهِ فَلْيَغْسِلْ وَجْهَهُ ثُمَّ لِيُعِدْ غَسْلَ ذِرَاعَيْهِ حَتَّى يَكُونَ غَسْلُهُمَا بَعْدَ وَجْهِهِ إِذَا كَانَ ذَلِكَ فِي مَكَانِهِ أَوْ بِحَضْرَةِ ذَلِكَ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 39,
+                            "book_ref": "Book 2, Hadith 8",
+                            "text_fr": "Yahia a dit : «On interrogea Malek au sujet d'un homme qui prie mais se rappelle qu'en faisant ses ablutions, il a oublié de se rincer la bouche ou de renifler l'eau. Il répondit : «Il ne doit pas refaire sa prière, mais s'il est encore en état de pureté (et veut faire la prière suivante), qu'il se rince la bouche et qu'il renifle l'eau».",
+                            "text_ar": "قَالَ يَحْيَى وَسُئِلَ مَالِكٌ عَنْ رَجُلٍ نَسِيَ أَنْ يَتَمَضْمَضَ وَيَسْتَنْثِرَ حَتَّى صَلَّى قَالَ لَيْسَ عَلَيْهِ أَنْ يُعِيدَ صَلاَتَهُ وَلْيُمَضْمِضْ وَيَسْتَنْثِرْ مَا يَسْتَقْبِلُ إِنْ كَانَ يُرِيدُ أَنْ يُصَلِّي ‏.‏"
+                        }
                     ]
+                },
+                {
+                    "id": 2,
+                    "title_fr": "Les ablutions de l'homme qui s'éveille et veut prier",
+                    "hadiths": [
+                        {
+                            "hadith_id": 40,
+                            "book_ref": "Book 2, Hadith 9",
+                            "text_fr": "Abou Houraira a rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) a dit: «Si l'un de vous s'éveille, qu'il se lave les mains avant qu'il ne débute son ablution, car il ne peut savoir où il a mis ses mains durant son sommeil».",
+                            "text_ar": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ نَوْمِهِ فَلْيَغْسِلْ يَدَهُ قَبْلَ أَنْ يُدْخِلَهَا فِي وَضُوئِهِ فَإِنَّ أَحَدَكُمْ لاَ يَدْرِي أَيْنَ بَاتَتْ يَدُهُ ‏\"‏ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 41,
+                            "book_ref": "Book 2, Hadith 10",
+                            "text_fr": "Omar Ibn Al-Khattab a dit: «lorsque l'un de vous se couche en s'étendant, qu'il fasse ses ablutions (quand il veut prier)».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، قَالَ إِذَا نَامَ أَحَدُكُمْ مُضْطَجِعًا فَلْيَتَوَضَّأْ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 42,
+                            "book_ref": "Book 2, Hadith 11",
+                            "text_fr": "Malek a rapporté d'après Zaid Ibn Aslam, au sujet de l'interprétation de ce verset (le sens): «O vous les croyants! Lorsque vous vous levez pour faire la prière, lavez vos visages, alors, et vos mains jusqu'aux coudes, et passez les mains humides sur vos têtes, et lavez-vous les pieds jusqu'aux chevilles» (Coran V, 6) que cela signifie quand vous vous réveillez».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، أَنَّ تَفْسِيرَ، هَذِهِ الآيَةِ ‏{‏يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلاَةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ‏}‏ أَنَّ ذَلِكَ إِذَا قُمْتُمْ مِنَ الْمَضَاجِعِ ‏.‏ يَعْنِي النَّوْمَ ‏.‏ قَالَ يَحْيَى قَالَ"
+                        },
+                        {
+                            "hadith_id": 43,
+                            "book_ref": "Book 2, Hadith 12",
+                            "text_fr": "Malek a dit: «on ne doit pas faire les ablutions après le saignement du nez, ou à cause d'une blessure d'où coule le sang, ou le pus; et on ne doit pas non plus les faire qu'après la sortie de quelque chose des deux exutoires, ou après un sommeil».",
+                            "text_ar": "مَالِكٌ الأَمْرُ عِنْدَنَا أَنَّهُ لاَ يَتَوَضَّأُ مِنْ رُعَافٍ وَلاَ مِنْ دَمٍ وَلاَ مِنْ قَيْحٍ يَسِيلُ مِنَ الْجَسَدِ وَلاَ يَتَوَضَّأُ إِلاَّ مِنْ حَدَثٍ يَخْرُجُ مِنْ ذَكَرٍ أَوْ دُبُرٍ أَوْ نَوْمٍ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 44,
+                            "book_ref": null,
+                            "text_fr": "Malek a rapporté d'après Nafé qu'Ibn Omar ne faisait pas ses ablutions quand il s'assoupissait assis et même il priait.",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يَنَامُ جَالِسًا ثُمَّ يُصَلِّي وَلاَ يَتَوَضَّأُ ‏.‏"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "title_fr": "Le sujet de l'eau pure pour les ablutions.",
+                    "hadiths": [
+                        {
+                            "hadith_id": 45,
+                            "book_ref": "Book 2, Hadith 13",
+                            "text_fr": "Abou Houraira a rapporté qu'un homme vint trouver l'Envoyé d'Allah (salallahou alayhi wa salam) et lui dit: «Ô Envoyé d'Allah, nous naviguions en pleine mer, et ne portions que peu d'eau avec nous; ainsi si nous nous en servions pour les ablutions, nous n'aurions plus de quoi boire; devons-nous donc utiliser cette eau pour les ablutions»? Il lui répondit: «l'eau de la mer est purificatrice, et sa pêche est licite».",
+                            "text_ar": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ سَعِيدِ بْنِ سَلَمَةَ، - مِنْ آلِ بَنِي الأَزْرَقِ - عَنِ الْمُغِيرَةِ بْنِ أَبِي بُرْدَةَ، - وَهُوَ مِنْ بَنِي عَبْدِ الدَّارِ - أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّا نَرْكَبُ الْبَحْرَ وَنَحْمِلُ مَعَنَا الْقَلِيلَ مِنَ الْمَاءِ فَإِنْ تَوَضَّأْنَا بِهِ عَطِشْنَا أَفَنَتَوَضَّأُ بِهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ ‏\"‏ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 46,
+                            "book_ref": "Book 2, Hadith 14",
+                            "text_fr": "Kabcha bint Ka'b Ibn Malek, la femme d'Ibn Abi Katada le Médinois a rapporté que Abou Katada entra chez elle; elle lui apporta de l'eau pour ses ablutions, or une chatte s'était approchée pour boire de cette eau; il lui inclina le vase jusqu'à ce qu'elle fut rassasiée. Remarquant que je le regardais faire, il me dit: «ô, la fille de mon frère, ça t'étonne»? Je lui répondis: «Oui». Il répliqua: «L'Envoyé d'Allah (salallahou alayhi wa salam) a dit:« ces animaux ne souillent pas l'eau car ils vous fréquentent souvent (c.a.d. qu'ils vivent parmi vous)». Malek a dit: «il n'y a pas mal à cela, à moins que l'homme ne remarque une certaine impureté sur la bouche de cette chatte».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ حُمَيْدَةَ بِنْتِ أَبِي عُبَيْدَةَ بْنِ فَرْوَةَ، عَنْ خَالَتِهَا، كَبْشَةَ بِنْتِ كَعْبِ بْنِ مَالِكٍ - وَكَانَتْ تَحْتَ ابْنِ أَبِي قَتَادَةَ الأَنْصَارِيِّ - أَنَّهَا أَخْبَرَتْهَا أَنَّ أَبَا قَتَادَةَ دَخَلَ عَلَيْهَا فَسَكَبَتْ لَهُ وَضُوءًا فَجَاءَتْ هِرَّةٌ لِتَشْرَبَ مِنْهُ فَأَصْغَى لَهَا الإِنَاءَ حَتَّى شَرِبَتْ قَالَتْ كَبْشَةُ فَرَآنِي أَنْظُرُ إِلَيْهِ فَقَالَ أَتَعْجَبِينَ يَا ابْنَةَ أَخِي قَالَتْ فَقُلْتُ نَعَمْ ‏.‏ فَقَالَ إِنَّ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ إِنَّهَا لَيْسَتْ بِنَجَسٍ إِنَّمَا هِيَ مِنَ الطَّوَّافِينَ عَلَيْكُمْ أَوِ الطَّوَّافَاتِ ‏\"‏ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 47,
+                            "book_ref": "Book 2, Hadith 15",
+                            "text_fr": "Abdel Rahman Ibn Hateb a rapporté que Omar Ibn Al-Khattab sortit à la tête d'une cavalerie dont Amr Ibn Al-As faisait partie, jusqu'à leur arrivée près d'un bassin. Amr Ibn Al-As dit à son propriétaire: «Ô un tel! Les bêtes fauves viennent-elles boire souvent de ton bassin»? Omar Ibn Al-Khattab s'adressant au propriétaire dit: «Ne réponds pas car nous fréquentons souvent ces bêtes, et elles nous fréquentent aussi».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ التَّيْمِيِّ، عَنْ يَحْيَى بْنِ عَبْدِ الرَّحْمَنِ بْنِ حَاطِبٍ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، خَرَجَ فِي رَكْبٍ فِيهِمْ عَمْرُو بْنُ الْعَاصِ حَتَّى وَرَدُوا حَوْضًا فَقَالَ عَمْرُو بْنُ الْعَاصِ لِصَاحِبِ الْحَوْضِ يَا صَاحِبَ الْحَوْضِ هَلْ تَرِدُ حَوْضَكَ السِّبَاعُ فَقَالَ عُمَرُ بْنُ الْخَطَّابِ يَا صَاحِبَ الْحَوْضِ لاَ تُخْبِرْنَا فَإِنَّا نَرِدُ عَلَى السِّبَاعِ وَتَرِدُ عَلَيْنَا ‏.‏"
+                        },
+                        {
+                            "hadith_id": 48,
+                            "book_ref": "Book 2, Hadith 16",
+                            "text_fr": "Abdallah Ibn Omar disait souvent: «du temps de l'Envoyé d'Allah (salallahou alayhi wa salam) femmes et hommes faisaient ensemble les ablutions».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يَقُولُ إِنْ كَانَ الرِّجَالُ وَالنِّسَاءُ فِي زَمَانِ رَسُولِ اللَّهِ صلى الله عليه وسلم لَيَتَوَضَّئُونَ جَمِيعًا ‏.‏"
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "title_fr": " De ce qui n'exige pas à refaire les ablutions",
+                    "hadiths": [
+                        {
+                            "hadith_id": 49,
+                            "book_ref": "Book 2, Hadith 17",
+                            "text_fr": "La mère d'un fils de Ibrahim Ibn Abdel-Rahman Ibn Awf demanda à Oum Salama la femme du Prophète (salallahou alayhi wa salam): «Je suis une femme qui marche dans des lieux immondes et laisse l'extrémité de mon vêtement traînant» (dois-je faire les ablutions lorsque je veux prier). Elle lui répondit: «L'Envoyé d'Allah (salallahou alayhi wa salam) a dit: «(Le sable) fait débarasser les vêtements de toute impureté».",
+                            "text_ar": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ عُمَارَةَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أُمِّ وَلَدٍ، لإِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَنَّهَا سَأَلَتْ أُمَّ سَلَمَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ إِنِّي امْرَأَةٌ أُطِيلُ ذَيْلِي وَأَمْشِي فِي الْمَكَانِ الْقَذِرِ قَالَتْ أُمُّ سَلَمَةَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يُطَهِّرُهُ مَا بَعْدَهُ ‏\"‏ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 50,
+                            "book_ref": "Book 2, Hadith 18",
+                            "text_fr": "Malek a rapporté qu'il a vu Rabi'a Ibn Abdel-Rahman vomir souvent dans la mosquée, sans quitter ce lieu, et ne refaisait pas ses ablutions même avant la prière. On demanda à Malek au sujet d'un homme qui vomissait en rejetant ce qu'il avait mangé; devait-il refaire ses ablutions? Il répondit: «il pouvait ne pas les refaire, mais qu'il se rince la bouche et la lave».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ رَأَى رَبِيعَةَ بْنَ أَبِي عَبْدِ الرَّحْمَنِ يَقْلِسُ مِرَارًا وَهُوَ فِي الْمَسْجِدِ فَلاَ يَنْصَرِفُ وَلاَ يَتَوَضَّأُ حَتَّى يُصَلِّيَ ‏.‏ قَالَ يَحْيَى وَسُئِلَ مَالِكٌ عَنْ رَجُلٍ قَلَسَ طَعَامًا هَلْ عَلَيْهِ وُضُوءٌ فَقَالَ لَيْسَ عَلَيْهِ وُضُوءٌ وَلْيَتَمَضْمَضْ مِنْ ذَلِكَ وَلْيَغْسِلْ فَاهُ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 51,
+                            "book_ref": "Book 2, Hadith 19",
+                            "text_fr": "Nafe' a rapporté que Abdallah Ibn Omar avait embaumé un fils de Sa'id, qui est mort; il l'a porté à la mosquée et a fait sa prière sans ablutions. On demanda à Malek: «doit-on refaire les ablutions après avoir vomi»? Il répondit: «non, mais que l'on se rince la bouche, et qu'on la lave».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، حَنَّطَ ابْنًا لِسَعِيدِ بْنِ زَيْدٍ وَحَمَلَهُ ثُمَّ دَخَلَ الْمَسْجِدَ فَصَلَّى وَلَمْ يَتَوَضَّأْ ‏.‏ قَالَ يَحْيَى وَسُئِلَ مَالِكٌ هَلْ فِي الْقَىْءِ وُضُوءٌ قَالَ لاَ وَلَكِنْ لِيَتَمَضْمَضْ مِنْ ذَلِكَ وَلْيَغْسِلْ فَاهُ وَلَيْسَ عَلَيْهِ وُضُوءٌ ‏.‏"
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "title_fr": "Le fait de ne pas refaire les ablutions après avoir mangé du rôti",
+                    "hadiths": [
+                        {
+                            "hadith_id": 52,
+                            "book_ref": "Book 2, Hadith 20",
+                            "text_fr": "Abdallah Ibn Abbas a rapporté que l'Envoyé d'Allah a mangé de l'épaule d'un mouton rôti, puis il fit sa prière sans refaire ses ablutions.",
+                            "text_ar": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، ‏.‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَكَلَ كَتِفَ شَاةٍ ثُمَّ صَلَّى وَلَمَّ يَتَوَضَّأْ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 53,
+                            "book_ref": "Book 2, Hadith 21",
+                            "text_fr": "Souwaid Ibn An-Nou'man a rapporté que, l'année de Khaibar, il partit avec l'Envoyé d'Allah et arrivés à Al-Sahaba, l'Envoyé d'Allah fit la prière de l'asr, puis ordonna qu'on apporte du sawiq qu'il mouilla d'eau avant de le manger. Il se contenta de se rincer la bouche, et fit la prière du coucher du soleil sans refaire ses ablutions.",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ بُشَيْرِ بْنِ يَسَارٍ، مَوْلَى بَنِي حَارِثَةَ عَنْ سُوَيْدِ بْنِ النُّعْمَانِ، أَنَّهُ أَخْبَرَهُ أَنَّهُ، خَرَجَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ خَيْبَرَ حَتَّى إِذَا كَانُوا بِالصَّهْبَاءِ - وَهِيَ مِنْ أَدْنَى خَيْبَرَ - نَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَلَّى الْعَصْرَ ثُمَّ دَعَا بِالأَزْوَادِ فَلَمْ يُؤْتَ إِلاَّ بِالسَّوِيقِ فَأَمَرَ بِهِ فَثُرِّيَ فَأَكَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَكَلْنَا ثُمَّ قَامَ إِلَى الْمَغْرِبِ فَمَضْمَضَ وَمَضْمَضْنَا ثُمَّ صَلَّى وَلَمْ يَتَوَضَّأْ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 54,
+                            "book_ref": "Book 2, Hadith 22",
+                            "text_fr": "Rabi'a Ibn Abdallah Ibn Al-Houdair a rapporté qu'il a pris son dîner avec Omar Ibn Al-Khattab, puis il pria sans refaire ses ablutions.",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، وَعَنْ صَفْوَانَ بْنِ سُلَيْمٍ، أَنَّهُمَا أَخْبَرَاهُ عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ التَّيْمِيِّ، عَنْ رَبِيعَةَ بْنِ عَبْدِ اللَّهِ بْنِ الْهُدَيْرِ، أَنَّهُ تَعَشَّى مَعَ عُمَرَ بْنِ الْخَطَّابِ ثُمَّ صَلَّى وَلَمْ يَتَوَضَّأْ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 55,
+                            "book_ref": "Book 2, Hadith 23",
+                            "text_fr": "Aban Ibn Osman a rapporté qu'Osman Ibn Affan mangea du pain et de la viande, se rinça la bouche, lava les mains et frotta le visage, puis pria sans refaire ses ablutions.",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ ضَمْرَةَ بْنِ سَعِيدٍ الْمَازِنِيِّ، عَنْ أَبَانَ بْنِ عُثْمَانَ، أَنَّ عُثْمَانَ بْنَ عَفَّانَ، أَكَلَ خُبْزًا وَلَحْمًا ثُمَّ مَضْمَضَ وَغَسَلَ يَدَيْهِ وَمَسَحَ بِهِمَا وَجْهَهُ ثُمَّ صَلَّى وَلَمْ يَتَوَضَّأْ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 56,
+                            "book_ref": "Book 2, Hadith 24",
+                            "text_fr": "On rapporta à Malek que Ali Ibn Abi Taleb et Abdallah Ibn Abbas ne refaisaient pas leurs ablutions après avoir mangé de la viande rôtie.",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ، وَعَبْدَ اللَّهِ بْنَ عَبَّاسٍ، كَانَا لاَ يَتَوَضَّآنِ مِمَّا مَسَّتِ النَّارُ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 57,
+                            "book_ref": "Book 2, Hadith 25",
+                            "text_fr": "Yahia Ibn Sa'id a demandé à Abdallah Ibn Amer Ibn Rabi'a si un homme doit refaire ses ablutions après avoir mangé de la nourriture cuite au feu. Il répondit: «J'ai vu mon père manger du rôti sans refaire ses ablutions».",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّهُ سَأَلَ عَبْدَ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ عَنِ الرَّجُلِ، يَتَوَضَّأُ لِلصَّلاَةِ ثُمَّ يُصِيبُ طَعَامًا قَدْ مَسَّتْهُ النَّارُ أَيَتَوَضَّأُ قَالَ رَأَيْتُ أَبِي يَفْعَلُ ذَلِكَ وَلاَ يَتَوَضَّأُ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 58,
+                            "book_ref": "Book 2, Hadith 26",
+                            "text_fr": "Jaber Ibn Abdallah Al-Ansari a rapporté qu'il a vu Abou Bakr Al-Siddiq manger du rôti puis faire la prière sans refaire ses ablutions.",
+                            "text_ar": "وَحَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي نُعَيْمٍ، وَهْبِ بْنِ كَيْسَانَ أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ الأَنْصَارِيَّ، يَقُولُ رَأَيْتُ أَبَا بَكْرٍ الصِّدِّيقَ أَكَلَ لَحْمًا ثُمَّ صَلَّى وَلَمْ يَتَوَضَّأْ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 59,
+                            "book_ref": "Book 2, Hadith 27",
+                            "text_fr": "Mohammed Ibn Al-Mounkader a rapporté que l'Envoyé d'Allah fut convié à un repas; on lui servit du pain et de la viande rôtie, il en mangea puis fit ses ablutions et pria. Plus tard, on lui présenta du reste de ce mets, il en mangea puis fit la prière sans refaire ses ablutions.",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم دُعِيَ لِطَعَامٍ فَقُرِّبَ إِلَيْهِ خُبْزٌ وَلَحْمٌ فَأَكَلَ مِنْهُ ثُمَّ تَوَضَّأَ وَصَلَّى ثُمَّ أُتِيَ بِفَضْلِ ذَلِكَ الطَّعَامِ فَأَكَلَ مِنْهُ ثُمَّ صَلَّى وَلَمْ يَتَوَضَّأْ ‏.‏"
+                        },
+                        {
+                            "hadith_id": 60,
+                            "book_ref": "Book 2, Hadith 28",
+                            "text_fr": "Abdel Rahman Ibn Yazid Al-Ansari a rapporté qu'Anas ibn Malik, de retour d'Iraq, présenta un mets que le feu avait touché à Abou Talha et Oubai Ibn Ka'b; ils en mangèrent, et Anas fit ses ablutions après avoir mangé, mais Abou Talha et Oubai Ibn Ka'b prièrent sans refaire leurs ablutions.",
+                            "text_ar": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ زَيْدٍ الأَنْصَارِيِّ، أَنَّ أَنَسَ بْنَ مَالِكٍ، قَدِمَ مِنَ الْعِرَاقِ فَدَخَلَ عَلَيْهِ أَبُو طَلْحَةَ وَأُبَىُّ بْنُ كَعْبٍ فَقَرَّبَ لَهُمَا طَعَامًا قَدْ مَسَّتْهُ النَّارُ فَأَكَلُوا مِنْهُ فَقَامَ أَنَسٌ فَتَوَضَّأَ فَقَالَ أَبُو طَلْحَةَ وَأُبَىُّ بْنُ كَعْبٍ مَا هَذَا يَا أَنَسُ أَعِرَاقِيَّةٌ فَقَالَ أَنَسٌ لَيْتَنِي لَمْ أَفْعَلْ ‏.‏ وَقَامَ أَبُو طَلْحَةَ وَأُبَىُّ بْنُ كَعْبٍ فَصَلَّيَا وَلَمْ يَتَوَضَّآ ‏.‏"
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "title_fr": "Les ablutions intègres",
+                    "hadiths": []
+                },
+                {
+                    "id": "7",
+                    "title_fr": "Le fait de se frotter la tête et les oreilles",
+                    "hadiths": []
+                },
+                {
+                    "id": "8",
+                    "title_fr": "Du fait de frotter les bottines (Khouffs)",
+                    "hadiths": []
+                },
+                {
+                    "id": "9",
+                    "title_fr": "Comment frotter sur les bottines",
+                    "hadiths": []
+                },
+                {
+                    "id": "10",
+                    "title_fr": "Du saignement du nez",
+                    "hadiths": []
+                },
+                {
+                    "id": "11",
+                    "title_fr": "Ce qu'on doit faire lors d'un saignement du nez",
+                    "hadiths": []
+                },
+                {
+                    "id": "12",
+                    "title_fr": "Ce qu'il faut faire quand le sang coule avec abondance",
+                    "hadiths": []
+                },
+                {
+                    "id": "13",
+                    "title_fr": "Les ablutions après un suintement",
+                    "hadiths": []
+                },
+                {
+                    "id": "14",
+                    "title_fr": "L'autorisation de ne plus refaire les ablutions, à celui qui a un suintement (dit mazi)",
+                    "hadiths": []
+                },
+                {
+                    "id": "15",
+                    "title_fr": "Le fait de refaire les ablutions, si l'on touche la verge",
+                    "hadiths": []
+                },
+                {
+                    "id": "16",
+                    "title_fr": "Un homme qui embrasse sa femme doit faire ses ablutions",
+                    "hadiths": []
+                },
+                {
+                    "id": "17",
+                    "title_fr": "La lotion à la suite d'une impureté rituelle",
+                    "hadiths": []
+                },
+                {
+                    "id": "18",
+                    "title_fr": "Devoir faire une lotion, quand les deux parties circoncises (mâle et femelle) se touchent",
+                    "hadiths": []
+                },
+                {
+                    "id": "19",
+                    "title_fr": "Les ablutions de l'homme à l'état d'impureté rituelle quand il veut se coucher ou manger avant de faire la lotion",
+                    "hadiths": []
+                },
+                {
+                    "id": "20",
+                    "title_fr": "La prière de celui qui est en état d'impureté rituelle, sa lotion quand il se souvient et le lavage de son vêtement",
+                    "hadiths": []
+                },
+                {
+                    "id": "21",
+                    "title_fr": "La lotion de la femme qui pareillement à l'homme fait un rêve érotique",
+                    "hadiths": []
+                },
+                {
+                    "id": "22",
+                    "title_fr": "La lotion après un acte sexuel",
+                    "hadiths": []
+                },
+                {
+                    "id": "23",
+                    "title_fr": "La lustration pulvérale \"Tayamoum\"",
+                    "hadiths": []
+                },
+                {
+                    "id": "24",
+                    "title_fr": "Comment faire la lustration pulvérale \"Tayamoum\"",
+                    "hadiths": []
+                },
+                {
+                    "id": "25",
+                    "title_fr": "La lustration pulvérale de l'homme rituellement impur",
+                    "hadiths": []
+                },
+                {
+                    "id": "26",
+                    "title_fr": "Ce dont l'homme peut disposer de sa femme, qui a ses menstrues",
+                    "hadiths": []
+                },
+                {
+                    "id": "27",
+                    "title_fr": "La pureté de la femme qui a ses menstrues",
+                    "hadiths": []
+                },
+                {
+                    "id": "28",
+                    "title_fr": "Le cas de la femme qui a ses menstrues",
+                    "hadiths": []
+                },
+                {
+                    "id": "29",
+                    "title_fr": "De la femme qui a une veine qui saigne",
+                    "hadiths": []
+                },
+                {
+                    "id": "30",
+                    "title_fr": "De l'urine d'un nourrisson",
+                    "hadiths": []
+                },
+                {
+                    "id": "31",
+                    "title_fr": "Le fait d'uriner debout",
+                    "hadiths": []
+                },
+                {
+                    "id": "32",
+                    "title_fr": "De l'usage du \"siwak\" (frottoir à dents)",
+                    "hadiths": []
                 }
             ]
         }
